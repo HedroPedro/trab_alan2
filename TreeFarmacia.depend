@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1723684129 source:c:\users\pedro\onedrive\documentos\c\treefarmacia\trabalho2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estoque.h"
+
+1723763989 source:c:\users\pedro\onedrive\documentos\c\treefarmacia\estoque.c
+	"estoque.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1723664400 c:\users\pedro\onedrive\documentos\c\treefarmacia\estoque.h
+
